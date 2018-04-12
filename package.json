@@ -3,6 +3,7 @@
   "description": "An unobtrusive customizable JavaScript notification system",
   "version": "0.3.11",
   "homepage": "http://fabien-d.github.com/alertify.js/",
+  "main": "lib/alertify.min.js",
   "author": {
     "name": "Fabien Doiron",
     "email": "fabien.doiron@gmail.com"
